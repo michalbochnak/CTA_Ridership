@@ -1,0 +1,10 @@
+C:\Users\Michal\Desktop\School\CS 341\Projects\CS 341 Project 08 N-tier CTA Analysis\CTA-Analysis\CTA\bin\Debug\CTA.exe.config
+C:\Users\Michal\Desktop\School\CS 341\Projects\CS 341 Project 08 N-tier CTA Analysis\CTA-Analysis\CTA\bin\Debug\CTA.exe
+C:\Users\Michal\Desktop\School\CS 341\Projects\CS 341 Project 08 N-tier CTA Analysis\CTA-Analysis\CTA\bin\Debug\CTA.pdb
+C:\Users\Michal\Desktop\School\CS 341\Projects\CS 341 Project 08 N-tier CTA Analysis\CTA-Analysis\CTA\obj\Debug\CTA.Form1.resources
+C:\Users\Michal\Desktop\School\CS 341\Projects\CS 341 Project 08 N-tier CTA Analysis\CTA-Analysis\CTA\obj\Debug\CTA.Properties.Resources.resources
+C:\Users\Michal\Desktop\School\CS 341\Projects\CS 341 Project 08 N-tier CTA Analysis\CTA-Analysis\CTA\obj\Debug\CTA.csproj.GenerateResource.Cache
+C:\Users\Michal\Desktop\School\CS 341\Projects\CS 341 Project 08 N-tier CTA Analysis\CTA-Analysis\CTA\obj\Debug\CTA.csproj.CoreCompileInputs.cache
+C:\Users\Michal\Desktop\School\CS 341\Projects\CS 341 Project 08 N-tier CTA Analysis\CTA-Analysis\CTA\obj\Debug\CTA.exe
+C:\Users\Michal\Desktop\School\CS 341\Projects\CS 341 Project 08 N-tier CTA Analysis\CTA-Analysis\CTA\obj\Debug\CTA.pdb
+C:\Users\Michal\Desktop\School\CS 341\Projects\CS 341 Project 08 N-tier CTA Analysis\CTA-Analysis\CTA\obj\Debug\CTA.csprojAssemblyReference.cache
